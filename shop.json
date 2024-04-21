@@ -1,0 +1,18 @@
+{
+    "SkinsIMG": {
+        "Skins": [
+            {
+                "id": "1",
+                "link": "https://raw.githubusercontent.com/loladdfdfd/DriveFastHippieImagesSourcesShop/main/TitleHW.png"
+            },
+            {
+                "id": "2",
+                "link": "https://raw.githubusercontent.com/loladdfdfd/DriveFastHippieImagesSourcesShop/main/TitleNV.png"
+            },
+            {
+                "id": "3",
+                "link": "https://raw.githubusercontent.com/loladdfdfd/DriveFastHippieImagesSourcesShop/main/TitleNY.png"
+            }
+        ]
+    }
+}
